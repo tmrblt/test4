@@ -1,5 +1,5 @@
 # ArgoCD Demo on OpenShift
-**[1. Setup](#1-Setupx)**
+**[1. Setup](#1-Setup)**
 - Prerequisite CLI Tools
 - Download Source Files
 - Setup OpenShift Cluster
@@ -29,7 +29,7 @@
   - Exploring Manifests
   - Deploying The Application
 
-# 1. Setupx
+# 1. Setup
 **Prerequisite CLI Tools**
 1. install git
 ```
