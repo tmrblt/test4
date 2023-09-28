@@ -1,5 +1,5 @@
 # ArgoCD Demo on OpenShift
-**[1. Setup](#1.Setupx)**
+**[1. Setup](#1-Setupx)**
 - Prerequisite CLI Tools
 - Download Source Files
 - Setup OpenShift Cluster
