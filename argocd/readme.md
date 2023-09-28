@@ -29,7 +29,7 @@
   - Exploring Manifests
   - Deploying The Application
 
-# 1. Setup
+## 1. Setup
 **Prerequisite CLI Tools**
 1. install git
 ```
